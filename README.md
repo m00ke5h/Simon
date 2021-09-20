@@ -1,10 +1,11 @@
-# neutralinojs-minimal
-The simplest template for a Neutralinojs app. It's possible to use your favorite frontend framework using the following steps.
+# SIMON GAME
 
-- Create a new project using your favorite frontend framework. (Eg: `ng new --directory .`)
-- Make the frontend framework's build path and Neutralino config's `url`, `resourcesPath` the same.
-- Build with the correct base href.
+## Rules:-
+- Press any key to start the game
+- 1 of the 4 tiles will flash. Remember it and select it.
+- Again 1 out of the 4 tiles will flash. You have to remember the previously selected tile alongwith this tile and select the tiles according to that sequence.
+- For each correctly remembered sequence, you will advance 1 level.
+- Selecting the wrong sequence will immediately quit the game. Press any key to restart.
+- Hope you enjoy :) All the best!
 
-# Icon credits
-
-- `trayIcon.png` - Made by [Freepik](https://www.freepik.com) and downloaded from [Flaticon](https://www.flaticon.com)
+Try it out here - https://m00ke5h.github.io/Simon-pvt/
