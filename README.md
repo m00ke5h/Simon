@@ -16,3 +16,9 @@
   - **Linux**(x64) - *Simon-linux_x64* 
 
 Try it out here - https://m00ke5h.github.io/Simon-pvt/
+
+![Screenshot from 2021-09-21 18-26-36](https://user-images.githubusercontent.com/69397255/134176494-ad71dfd7-ffd1-4deb-9d18-6f9fd8addebc.png)
+
+![Screenshot from 2021-09-21 18-29-30](https://user-images.githubusercontent.com/69397255/134176563-dacb683b-eb57-49d2-b87d-f7f1b028f666.png)
+
+![Screenshot from 2021-09-21 18-27-15](https://user-images.githubusercontent.com/69397255/134176600-edd0dfb8-daf5-4645-afb4-9252a0a48f91.png)
